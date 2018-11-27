@@ -86,7 +86,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public boolean onMarkerClick(Marker marker) {
         Log.i("Marker click", "Marker has been clicked");
         mMap.animateCamera(CameraUpdateFactory.zoomTo(25));
-        String url = "http://localhost:5000/";
+        String url = "http://127.0.0.1:5000/";
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                 (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
