@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506040259612",
+    "firebase_url": "https://georide-70dcf.firebaseio.com",
+    "project_id": "georide-70dcf",
+    "storage_bucket": "georide-70dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506040259612:android:af99c88184e6393f",
+        "android_client_info": {
+          "package_name": "com.georide.georide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506040259612-d83oeivgo1g8ddi3joafddq04k8nabo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georide.georide",
+            "certificate_hash": "c665fdfe2199b8614488abda855db4e0cab5c287"
+          }
+        },
+        {
+          "client_id": "506040259612-gqv0jqdm1jlq6lkeo81gkfu95udvlg06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6zpCL3fdNK6Uez_OyS0paXonknq1waw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506040259612-gqv0jqdm1jlq6lkeo81gkfu95udvlg06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

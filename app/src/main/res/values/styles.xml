@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="SplashScreenTheme">
+        <item name="android:windowBackground">@mipmap/ic_splash</item>
+    </style>
+
 </resources>
